@@ -1,0 +1,7 @@
+E:\Software Developer\Platforms\Computer\Project\Visual C#\HuffmanTest\HuffmanTest\bin\Debug\HuffmanTest.exe.config
+E:\Software Developer\Platforms\Computer\Project\Visual C#\HuffmanTest\HuffmanTest\bin\Debug\HuffmanTest.exe
+E:\Software Developer\Platforms\Computer\Project\Visual C#\HuffmanTest\HuffmanTest\bin\Debug\HuffmanTest.pdb
+E:\Software Developer\Platforms\Computer\Project\Visual C#\HuffmanTest\HuffmanTest\obj\Debug\HuffmanTest.csprojAssemblyReference.cache
+E:\Software Developer\Platforms\Computer\Project\Visual C#\HuffmanTest\HuffmanTest\obj\Debug\HuffmanTest.csproj.CoreCompileInputs.cache
+E:\Software Developer\Platforms\Computer\Project\Visual C#\HuffmanTest\HuffmanTest\obj\Debug\HuffmanTest.exe
+E:\Software Developer\Platforms\Computer\Project\Visual C#\HuffmanTest\HuffmanTest\obj\Debug\HuffmanTest.pdb
